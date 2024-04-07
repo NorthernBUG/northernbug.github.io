@@ -1,14 +1,17 @@
-title: NorthernBUG
+title: Genomics Africa
 # author: GitHub User
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  A network of users or bioinformatics services in the north of England. Inspired by NextGenBUG,
-  we hold meetings three times a year to build a community of researchers and others using big data in biology. We are 
-  supported by The Genetics Society as a Special Interest Group.
+
+=======
+A consortium of genomicists, bioinformaticians or related services within Africa, inspired by NextGenBUG. 
+We hold quarterly meetings currently supported by African BioGenome Project to build a community of scientists, 
+researchers and others applying genomics and bioinformatics in their work
+=======
 
 # social links
 # twitter_username: jekyllrb
-github_username:  NorthernBUG
+github_username:  GenomicsAfrica
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
