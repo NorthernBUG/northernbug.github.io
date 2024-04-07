@@ -6,7 +6,7 @@ permalink: /meetings/
 
 Our meetings are based on the format pioneered by [NextGenBUG](http://nextgenbug.org).
 
-NorthernBUG meetings are open to **anyone** interested in bioinformatics or its application
+Genomics Africa meetings are open to **anyone** interested in genomics or its application
 in life science research and beyond. **Meetings are free** and costs covered
 by the host institution. We encourage researchers in the early stages of their career
 to attend and present their work. It's a great forum to practice your talks, float new ideas and approaches, and
