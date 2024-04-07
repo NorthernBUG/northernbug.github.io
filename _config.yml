@@ -2,7 +2,12 @@ title: Genomics Africa
 # author: GitHub User
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-A consortium of genomicists, bioinformaticians or related services within Africa, inspired by NextGenBUG. We hold quarterly meetings currently supported by African BioGenome Project to build a community of scientists, researchers and others applying genomics and bioinformatics in their work
+
+=======
+A consortium of genomicists, bioinformaticians or related services within Africa, inspired by NextGenBUG. 
+We hold quarterly meetings currently supported by African BioGenome Project to build a community of scientists, 
+researchers and others applying genomics and bioinformatics in their work
+=======
 
 # social links
 # twitter_username: jekyllrb

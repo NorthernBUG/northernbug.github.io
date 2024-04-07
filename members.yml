@@ -77,13 +77,6 @@
   twitter: roxana_teodor
   interests: Genomics
 
-- name: Maria Luisa Martin Cerezo
-  github: Marisa89
-  institute: University of Huddersfield
-  email: marialuisa.martin@hud.ac.uk
-  twitter: Marisamartin89
-  interests: Zoology, genomics and adaptation
-
 - name: Helen Griffin
   institute: Newcastle University
   email: helen.griffin@ncl.ac.uk
@@ -107,8 +100,7 @@
   institute: Northern Institute for Cancer Research
   email: yura.grabovska@newcastle.ac.uk
   interests: Cancer, Microarrays, RNA-Seq, WGS, WES, Machine learning, Unsupervised clustering
-  
-  
+    
 - name: Krzysztof Poterlowicz
   github: kpoterlowicz
   institute: University of Bradford

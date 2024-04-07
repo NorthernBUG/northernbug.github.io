@@ -1,5 +1,5 @@
 - meeting: NorthernBUG|1
-  theme: Inaugral Meeting
+  theme: Inaugural Meeting
   month: May
   day: 14
   year: 2018
@@ -66,25 +66,33 @@
   page: northernbug7
 
 - meeting: NorthernBUG|8
-  month: TBA
-  day: 0
+  month: January
+  day: 13
   year: 2023
-  institute: TBA
-  city: Liverpool
+  institute: University of Huddersfield
+  city: Huddersfield
   page: northernbug8
   
 - meeting: NorthernBUG|9
-  month: TBA
-  day: 0
+  month: June
+  day: 16
   year: 2023
-  institute: TBA
-  city: Manchester
+  institute: University of Liverpool
+  city: Liverpool
   page: northernbug9
   
 - meeting: NorthernBUG|10
-  month: TBA
-  day: 0
+  month: September
+  day: 1
   year: 2023
-  institute: TBA
-  city: Huddersfield
-  page: northernbug9
+  institute: University of York
+  city: York
+  page: northernbug10
+  
+- meeting: NorthernBUG|11
+  month: March
+  day: 25
+  year: 2024
+  institute: Sheffield Hallam University / University of Sheffield
+  city: Sheffield
+  page: northernbug11

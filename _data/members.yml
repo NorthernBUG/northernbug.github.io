@@ -70,13 +70,6 @@
   twitter: roxana_teodor
   interests: Genomics
 
-- name: Maria Luisa Martin Cerezo
-  github: Marisa89
-  institute: University of Huddersfield
-  email: marialuisa.martin@hud.ac.uk
-  twitter: Marisamartin89
-  interests: Zoology, genomics and adaptation
-
 - name: Helen Griffin
   institute: Newcastle University
   email: helen.griffin@ncl.ac.uk
@@ -133,7 +126,7 @@
   email: 	j.bryk@hud.ac.uk
   website: 	http://bryklab.net
   github: jarekbryk
-  interests: Evolutionary ecological genomics, scans for selection, Apodemus
+  interests: Genomics, data science, R, teaching and learning
   twitter: jarekbryk
 
 - name: Mark Wilkinson
@@ -306,3 +299,29 @@
   website: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/417/dr-dapeng-wang
   interests: Omics
   
+- name: Sara Morsy
+  github: saramorsy
+  institute: University of Bradford
+  email: skhalil7@bradford.ac.uk
+  twitter: drsaramorsy
+  website: https://www.bradford.ac.uk/staff/skhalil7
+  interests: GWAS, transcriptomics, meta-omics, clinical bioinformatics
+
+- name: Elton Vasconcelos
+  github: eltonjrv
+  institute: University of Leeds
+  email: e.vasconcelos@leeds.ac.uk
+  twitter: EltonVasconcel8
+  website: https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1300/dr-elton-vasconcelos
+  interests: Control of gene expression, Omics and Bioinformatics
+
+- name: Matthew Gemmell
+  website: https://m-gemmell.github.io/
+  github: m-gemmell
+  institute: University of Liverpool, CGR & NEOF
+  interests: Bioinformatics, Training, Environmental, and Microbiology
+
+- name: Eva Caamano Gutierrez
+  institute: Co-Director Computational Biology Facility, University of Liverpool
+  email: Eva.Caamano-Gutierrez@liverpool.ac.uk
+  interests: Data science, omics analyses, machine learning, statistics, R teaching
