@@ -284,11 +284,9 @@
   twitter: evc_sheffield
 
 - name: Michael Winter
-  github: mrmrwinter
-  institute: University of Hull
-  email: mrmrwinter@gmail.com
-  twitter: mrmrwinter
-  interests: Comparative genomics, evolution, phylogenomics, and reproducible bioinformatics. Triopsidae and Nematoda.
+  institute: FERA Science Ltd.
+  email: michael.winter@fera.co.uk
+  interests: Comparative genomics and reproducible bioinformatics. *Triops* and *Meloidogyne*.
 
 - name: Heba Shawer
   institute: University of Leeds
