@@ -22,9 +22,9 @@
 
 - name: Mark Dunning
   github: markdunning
-  institute: Sheffield Bioinformatics Core
-  email: m.j.dunning@sheffield.ac.uk
-  website: http://sbc.shef.ac.uk/
+  institute: Freelance / seeking work
+  email: mark@mdbioinformatics.com
+  website: http://mdbioinformatics.com
   twitter: DrMarkDunning
   interests: Bioconductor, R, RNA-seq, Training
 
@@ -286,7 +286,7 @@
 - name: Michael Winter
   github: mrmrwinter
   institute: University of Hull
-  email: m.r.winter@2016.hull.ac.uk
+  email: mrmrwinter@gmail.com
   twitter: mrmrwinter
   interests: Comparative genomics, evolution, phylogenomics, and reproducible bioinformatics. Triopsidae and Nematoda.
 
@@ -327,3 +327,18 @@
   institute: Co-Director Computational Biology Facility, University of Liverpool
   email: Eva.Caamano-Gutierrez@liverpool.ac.uk
   interests: Data science, omics analyses, machine learning, statistics, R teaching
+
+- name: Lewis Quayle
+  institute: Sheffield Hallam University & The University of Sheffield
+  email: l.quayle@shu.ac.uk and l.quayle@sheffield.ac.uk
+  github: lquayle88
+  website: www.lewisdoesdata.com
+  interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
+  
+- name: Chinedu Anene
+  institute: LeedS Beckett University
+  email: C.A.Anene@leedsbeckett.ac.uk
+  website: 	https://www.leedsbeckett.ac.uk/staff/dr-chinedu-anene/
+  twitter: caanenedr
+  github: AneneLab
+  interests: Bioinformatics, Digitial pathology, ncRNA, Aging, Oncovirology
