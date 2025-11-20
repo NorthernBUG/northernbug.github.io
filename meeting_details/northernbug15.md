@@ -21,7 +21,7 @@ The meeting will take place on 23rd January 2026 in **The Guildhall in York**. T
 
 Meeting registration is now open! [Please sign up with this google form](https://forms.gle/4vH38AG9SkaA78CDA)
 
-Registration will close on 12th January 2026 so we can confirm final numbers with caterers.
+Registration will close on 7th January 2026 so we can confirm final numbers with caterers.
 
 This is a single registration form where you can also indicate if you want to be considered for a talk or poster presentation. If so, tick the relevant box and submit your abstract (title, authors, 250 words abstract) in the appropriate section. If you don't have one ready yet, leave this final box blank and we'll be in touch, or send it through before the 12th January registration deadline to Andrew at andrew.mason@york.ac.uk. 
 
@@ -29,7 +29,7 @@ Remember this is a user group meeting, so you are very much encouraged to bring 
 
 # Agenda
 
-This is very much TBC - talks selected from submitted abstracts will be confirmed on 12th January 2026. We intend to have keynote speakers in the morning before lunch, and then have the user group in the afternoon.
+This is very much TBC - talks selected from submitted abstracts will be confirmed on 7th January 2026. We intend to have keynote speakers in the morning before lunch, and then have the user group in the afternoon.
 Posters and talks will be judged by all attendees using Google Forms, with prizes awarded for the top scoring.
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!.
@@ -55,7 +55,9 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
-We continue to be core supported by [The Genetics Society](https://genetics.org.uk/)!
+We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
+
+![NBUG15 sponsors](/assets/NBUG15sponsors.png)
 
 # Feedback
 We will open a feedback form at the close of the meeting which will remain open for 7 days.
