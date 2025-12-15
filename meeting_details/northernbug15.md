@@ -55,7 +55,7 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
-We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
+We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
 
 ![NBUG15 sponsors](/assets/NBUG15sponsors.png)
 
