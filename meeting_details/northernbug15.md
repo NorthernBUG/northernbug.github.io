@@ -21,9 +21,9 @@ The meeting will take place on 23rd January 2026 in **The Department of Biology 
 
 Meeting registration is now open! [Please sign up with this google form](https://forms.gle/4vH38AG9SkaA78CDA)
 
-Registration will close on 7th January 2026 so we can confirm final numbers with caterers.
+Registration will close on 9th January 2026 at 5pm so we can confirm final numbers with caterers.
 
-This is a single registration form where you can also indicate if you want to be considered for a talk or poster presentation. If so, tick the relevant box and submit your abstract (title, authors, 250 words abstract) in the appropriate section. If you don't have one ready yet, leave this final box blank and we'll be in touch, or send it through before the 12th January registration deadline to Andrew at andrew.mason@york.ac.uk. 
+This is a single registration form where you can also indicate if you want to be considered for a talk or poster presentation. If so, tick the relevant box and submit your abstract (title, authors, 250 words abstract) in the appropriate section. If you don't have one ready yet, leave this final box blank and we'll be in touch, or send it through before the 9th January registration deadline to Andrew at andrew.mason@york.ac.uk. 
 
 Remember this is a user group meeting, so you are very much encouraged to bring work in progress, seemingly-unsolvable problems, or new ideas where you want a friendly and informed audience.
 
@@ -33,7 +33,7 @@ We have been supported by the UKRI Digital Research Skills Catalyst who will be 
 
 # Agenda
 
-This is very much TBC - talks selected from submitted abstracts will be confirmed on 7th January 2026. We intend to have keynote speakers in the morning before lunch, and then have the user group in the afternoon.
+This is very much TBC - talks selected from submitted abstracts will be confirmed soon after the 9th January 2026 registration deadline. We intend to have a series of data organisation presentations and an open forum discussion in the morning before lunch, and then have the user group in the afternoon.
 Posters and talks will be judged by all attendees using Google Forms, with prizes awarded for the top scoring.
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!.
@@ -42,7 +42,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Andrew Mason | Opening remarks |  |
-| 10.35-12:00 | TBC | Morning keynote(s) | |
+| 10.35-12:00 | TBC | Data professionalisation forum | |
 | 12:00-13:00 | Lunch break with posters |  |  |
 | 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG15! |  |
 | 13:10-14:15 | **Session 1 Talks** |  | |
