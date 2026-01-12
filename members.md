@@ -25,7 +25,6 @@ Please add yourself to this page! Either [sign up here](../member_registration.h
 
 - Jess Buddle, University of Sheffield
 - Deepthi Paidipati, University of Bradford
-- Michael Winter, University of Hull
 
 ## Current Members
 
