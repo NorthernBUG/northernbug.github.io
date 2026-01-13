@@ -27,7 +27,6 @@ We have been supported by the UKRI Digital Research Skills Catalyst who will be 
 
 # Agenda
 
-This is very much TBC - talks selected from submitted abstracts will be confirmed soon after the 9th January 2026 registration deadline. We intend to have a series of data organisation presentations and an open forum discussion in the morning before lunch, and then have the user group in the afternoon.
 Posters and talks will be judged by all attendees using Google Forms, with prizes awarded for the top scoring.
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!.
@@ -37,7 +36,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Andrew Mason | Formal welcome to NorthernBUG15! |  |
 |  | **Training and Professionalisation** |  |  |
-| 10:35 | Tony Burdett | BioFAIR: Building a National FAIR Data Ecosystem for UK Life Sciences | Director of BioFAIR |
+| 10:35 | Tony Burdett | BioFAIR: Building a National FAIR Data Ecosystem for UK Life Sciences | Director of BioFAIR |
 | 10:50 | Allyson Lister | Recent advances in FAIR evaluation of digital research objects | FAIRsharing coordinator |
 | 11:05 | Krzysztof Poterlowicz | TBC | ELIXIR-UK Training Coordinator |
 | 11:20 | Emma Rand | TBC | UKRI Digital Research Skills Catalyst Lead |
