@@ -38,8 +38,8 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 |  | **Training and Professionalisation** |  |  |
 | 10:35 | Tony Burdett | BioFAIR: Building a National FAIR Data Ecosystem for UK Life Sciences | Director of BioFAIR |
 | 10:50 | Allyson Lister | Recent advances in FAIR evaluation of digital research objects | FAIRsharing coordinator |
-| 11:05 | Krzysztof Poterlowicz | TBC | ELIXIR-UK Training Coordinator |
-| 11:20 | Emma Rand | TBC | UKRI Digital Research Skills Catalyst Lead |
+| 11:05 | Krzysztof Poterlowicz | The ELIXIR-UK Training Ecosystem and Communities | ELIXIR-UK Training Coordinator |
+| 11:20 | Emma Rand | UKRI Digital Research Skills Catalyst: A national hub for researcher and innovator development | UKRI Digital Research Skills Catalyst Lead |
 | 11:35 | Open forum discussion | What role for northern universities in training and data skills professionalisation? |  |
 | 12:00-12:45 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
@@ -70,7 +70,7 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
-We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/) and [Azenta Life Sciences](https://www.azenta.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
+We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/) and [Genewiz by Azenta Life Sciences](https://www.azenta.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
 
 ![NBUG15 sponsors](/assets/NBUG15sponsors.png)
 
