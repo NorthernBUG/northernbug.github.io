@@ -19,13 +19,7 @@ The meeting will take place on 23rd January 2026 in **The Department of Biology 
 
 # Registration
 
-Meeting registration is now open! [Please sign up with this google form](https://forms.gle/4vH38AG9SkaA78CDA)
-
-Registration will close on 9th January 2026 at 5pm so we can confirm final numbers with caterers.
-
-This is a single registration form where you can also indicate if you want to be considered for a talk or poster presentation. If so, tick the relevant box and submit your abstract (title, authors, 250 words abstract) in the appropriate section. If you don't have one ready yet, leave this final box blank and we'll be in touch, or send it through before the 9th January registration deadline to Andrew at andrew.mason@york.ac.uk. 
-
-Remember this is a user group meeting, so you are very much encouraged to bring work in progress, seemingly-unsolvable problems, or new ideas where you want a friendly and informed audience.
+Registration has now closed.
 
 # Travel scholarships
 
@@ -41,15 +35,33 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
-| 10:30-10:35 | Andrew Mason | Opening remarks |  |
-| 10.35-12:00 | TBC | Data professionalisation forum | |
-| 12:00-13:00 | Lunch break with posters |  |  |
-| 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG15! |  |
-| 13:10-14:15 | **Session 1 Talks** |  | |
-| 14:15-14:40 | **Industry sponsor flash talks** |  |  |
-| 14:40-15:40 | **Poster session break** | Coffee, posters, industry, networking | |
-| 15:40-16:50 | **Session 2 Talks** |  |  |
-| 16:50-17:00 | **Prizes and closing remarks** |  |  |
+| 10:30-10:35 | Andrew Mason | Formal welcome to NorthernBUG15! |  |
+|  | **Training and Professionalisation** |  |  |
+| 10:35 | Tony Burdett | BioFAIR: Building a National FAIR Data Ecosystem for UK Life Sciences | Director of BioFAIR |
+| 10:50 | Allyson Lister | Recent advances in FAIR evaluation of digital research objects | FAIRsharing coordinator |
+| 11:05 | Krzysztof Poterlowicz | TBC | ELIXIR-UK Training Coordinator |
+| 11:20 | Emma Rand | TBC | UKRI Digital Research Skills Catalyst Lead |
+| 11:35 | Open forum discussion | What role for northern universities in training and data skills professionalisation? |  |
+| 12:00-12:45 | Lunch break with posters |  |  |
+|  | **Session 1 Talks** |  |  |
+| 12:45 | Michal Zulcinski | RNA sequencing of giant cell arteritis lesions uncovers the molecular landscape of early treatment response and reveals predictors of refractory and relapsing disease | Postdoc |
+| 13:00 | Alun Jones | Reduced regulatory complexity associated with the evolutionary transition to sociality from cockroaches to termites despite evolutionary parallels with Hymenoptera | Postdoc |
+| 13:15 | Harry Taylor | Functional Annotation of the Hyalomma anatolicum Cell Line HAE/CTVM9 Through Integrated Transcriptomic and Proteomic Analysis.  | PhD student |
+| 13:25 | Ana Valdes | Learning What to Label: Active Learning for Efficient Biological Text Mining | PhD student |
+| 13:40 | Jordan Tzvetkov | Can LLMs Help Solve the Curation Bottleneck? | Bioinformatician |
+| 13:55 | Mingkai Wang | DDGWizard: Integration of feature calculation resources for analysis and prediction of changes in protein thermostability upon point mutations | PhD student |
+| 14:10 | Mohamed El-Nemr | Beyond Binary Detection: A Multicentre Protocol for Automated AO Classification of Hand Fractures | MD student |
+| 14:20 | **Industry sponsor flash talks** | Azenta/Genewiz, Twist Bioscience |  |
+| 14:30-15:10 | **Poster session break** | Coffee, posters, industry, networking | |
+|  | **Session 2 Talks** |  |  |
+| 15:10 | Fran Ludwig | From Data to Decisions: Predicting Antimicrobial Resistance Using Real-World Clinical and Prescribing Data | PI |
+| 15:25 | Ronak Naeemaee | Unlocking Precision Medicine: Advanced Survival Analysis Tools for Cancer Biomarker Validation | PhD student |
+| 15:40 | Marisa Loach | Developing Single Cell Training to Increase Reuse of FAIR Workflows | PhD student |
+| 15:55 | Amelia Fisher | Single cell sequencing of normal B cells in CLL patients: multiomic analysis of low-count cell populations | PhD student |
+| 16:10 | Muhammad Ahtazaz Ahsan | DeepPathway: Predicting Pathway Expression from Histopathology Images | PhD student |
+| 16:25 | Joshua Winter-Luke | Ensemble Computational Framework for Robust Cell-Type Classification in Spatial Transcriptomics | PhD student |
+| 16:40 | Mohammad Faiz Iqbal Faiz | Spartan: A Multiplex Graph Framework for High-Resolution Spatial Domain and Spatially Variable Gene Discovery | PhD student |
+| 16:55-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | TBC |  |
 
 
