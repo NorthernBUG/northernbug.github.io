@@ -10,7 +10,7 @@ Please add yourself to this page! Either [sign up here](../member_registration.h
 
 - Peter Ashton, University of York
 - Jarek Bryk, University of Huddersfield
-- Mark Dunning, University of Sheffield
+- Mark Dunning, 
 - Dave Lunt, University of Hull
 - Andrew Mason, University of York
 - Krzysztof Poterlowicz, University of Bradford
