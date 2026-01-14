@@ -17,19 +17,25 @@ The meeting will take place on 23rd January 2026 in **The Department of Biology 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d437.42812992771366!2d-1.0581898615629475!3d53.947539295404944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487931816290c809%3A0xe6e5582ba25129e1!2sDepartment%20of%20Biology%20Reception!5e0!3m2!1sen!2suk!4v1765975664302!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+# What to expect
+
+NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and lunch is provided!
+
+These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. All speakers have been encouraged to leave 20% of their time for questions and discussion. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
+
 # Registration
 
 Registration has now closed.
 
 # Travel scholarships
 
-We have been supported by the UKRI Digital Research Skills Catalyst who will be providing up to 5 travel scholarships for the meeting! Please register and [then apply via this google form](https://docs.google.com/forms/d/e/1FAIpQLSdGjgcBSc2E_mLy8yr6mxdJQuNVYGy_soVkbb1O1n2Iow_3yA/viewform). 
+Thank you for the support of the UKRI Digital Research Skills Catalyst in providing travel scholarships for this meeting. These have now closed and we will announce the winners shortly.
 
 # Agenda
 
 Posters and talks will be judged by all attendees using Google Forms, with prizes awarded for the top scoring.
 
-If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!.
+If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
@@ -61,20 +67,20 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 16:25 | Joshua Winter-Luke | Ensemble Computational Framework for Robust Cell-Type Classification in Spatial Transcriptomics | PhD student |
 | 16:40 | Mohammad Faiz Iqbal Faiz | Spartan: A Multiplex Graph Framework for High-Resolution Spatial Domain and Spatially Variable Gene Discovery | PhD student |
 | 16:55-17:00 | **Prizes and closing remarks** |  |  |
-| 17:00- | **Pub** | TBC |  |
+| 17:00- | **Pub** | Rose & Crown, Lawrence Street, YO10 3BP |  |
 
+After the meeting we will gather at the Rose & Crown. This is a 15 minute walk from the university ([walking route here](https://maps.app.goo.gl/bDhQFWytRreQT6u28)). This is on the way back to the station and on the [U1 or 10 bus routes](https://www.firstbus.co.uk/york/plan-journey/timetables) which will take you back to the station.
 
-# What to expect
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4695.548156020947!2d-1.0665852!3d53.9535205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487931b3e1ec03db%3A0x61fa22ce7354032!2sRose%20%26%20Crown%2C%2013%20Lawrence%20St%2C%20York%20YO10%203BP!5e0!3m2!1sen!2suk!4v1768396887772!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and lunch is provided!
-
-These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
+# Our funders
 
 We continue to be core supported by [The Genetics Society](https://genetics.org.uk/), but thanks also to our amazing sponsors past and present. For NorthernBUG15 we are supported by [Twist Bioscience](https://www.twistbioscience.com/) and [Genewiz by Azenta Life Sciences](https://www.azenta.com/). Event sponsors will have stalls on the day, so there is an opportunity to hear about new technologies, promotional sequencing offers, and the potential for jobs in industry. Thank you to all our sponsors!
 
 ![NBUG15 sponsors](/assets/NBUG15sponsors.png)
 
 # Feedback
+
 We will open a feedback form at the close of the meeting which will remain open for 7 days.
 All feedback is incredibly valuable for determining the direction of NorthernBUG, improving and keeping meetings relevant to members, and for sourcing future funding.
 
