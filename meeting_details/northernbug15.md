@@ -57,16 +57,15 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:55 | Mingkai Wang | DDGWizard: Integration of feature calculation resources for analysis and prediction of changes in protein thermostability upon point mutations | PhD student |
 | 14:10 | Mohamed El-Nemr | Beyond Binary Detection: A Multicentre Protocol for Automated AO Classification of Hand Fractures | MD student |
 | 14:20 | **Industry sponsor flash talks** | Azenta/Genewiz, Twist Bioscience |  |
-| 14:30-15:10 | **Poster session break** | Coffee, posters, industry, networking | |
+| 14:30-15:20 | **Poster session break** | Coffee, posters, industry, networking | |
 |  | **Session 2 Talks** |  |  |
-| 15:10 | Fran Ludwig | From Data to Decisions: Predicting Antimicrobial Resistance Using Real-World Clinical and Prescribing Data | PI |
-| 15:25 | Ronak Naeemaee | Unlocking Precision Medicine: Advanced Survival Analysis Tools for Cancer Biomarker Validation | PhD student |
-| 15:40 | Marisa Loach | Developing Single Cell Training to Increase Reuse of FAIR Workflows | PhD student |
-| 15:55 | Amelia Fisher | Single cell sequencing of normal B cells in CLL patients: multiomic analysis of low-count cell populations | PhD student |
-| 16:10 | Muhammad Ahtazaz Ahsan | DeepPathway: Predicting Pathway Expression from Histopathology Images | PhD student |
-| 16:25 | Joshua Winter-Luke | Ensemble Computational Framework for Robust Cell-Type Classification in Spatial Transcriptomics | PhD student |
-| 16:40 | Mohammad Faiz Iqbal Faiz | Spartan: A Multiplex Graph Framework for High-Resolution Spatial Domain and Spatially Variable Gene Discovery | PhD student |
-| 16:55-17:00 | **Prizes and closing remarks** |  |  |
+| 15:20 | Ronak Naeemaee | Unlocking Precision Medicine: Advanced Survival Analysis Tools for Cancer Biomarker Validation | PhD student |
+| 15:35 | Marisa Loach | Developing Single Cell Training to Increase Reuse of FAIR Workflows | PhD student |
+| 15:50 | Amelia Fisher | Single cell sequencing of normal B cells in CLL patients: multiomic analysis of low-count cell populations | PhD student |
+| 16:05 | Muhammad Ahtazaz Ahsan | DeepPathway: Predicting Pathway Expression from Histopathology Images | PhD student |
+| 16:20 | Joshua Winter-Luke | Ensemble Computational Framework for Robust Cell-Type Classification in Spatial Transcriptomics | PhD student |
+| 16:35 | Mohammad Faiz Iqbal Faiz | Spartan: A Multiplex Graph Framework for High-Resolution Spatial Domain and Spatially Variable Gene Discovery | PhD student |
+| 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Rose & Crown, Lawrence Street, YO10 3BP |  |
 
 After the meeting we will gather at the Rose & Crown. This is a 15 minute walk from the university ([walking route here](https://maps.app.goo.gl/bDhQFWytRreQT6u28)). This is on the way back to the station and on the [U1 or 10 bus routes](https://www.firstbus.co.uk/york/plan-journey/timetables) which will take you back to the station.
