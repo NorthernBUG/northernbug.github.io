@@ -128,3 +128,27 @@
   institute: University of York
   city: York
   page: northernbug15
+
+- meeting: NorthernBUG|16
+  month: June/July
+  day: TBA
+  year: 2026
+  institute: University of Bradford
+  city: Bradford
+  page: northernbug16
+
+- meeting: NorthernBUG|17
+  month: September
+  day: TBA
+  year: 2026
+  institute: University of Liverpool
+  city: Liverpool
+  page: northernbug17
+
+- meeting: NorthernBUG|18
+  month: January
+  day: TBA
+  year: 2027
+  institute: University of Leeds
+  city: Leeds
+  page: northernbug18
