@@ -40,6 +40,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 We will award Best and Runner Up prizes for talks and posters based on your votes! Please use the Google Form rating systems below.
 
 [Rate the oral presentations here.](https://forms.gle/eTxNoBenF9dyrzve7)
+
 [Rate the posters here.](https://forms.gle/gS9MLCb9oWhLaJ7w5)
 
 
@@ -53,9 +54,8 @@ We will award Best and Runner Up prizes for talks and posters based on your vote
 | 11:05 | Krzysztof Poterlowicz | The ELIXIR-UK Training Ecosystem and Communities | ELIXIR-UK Training Coordinator |
 | 11:20 | Emma Rand | UKRI Digital Research Skills Catalyst: A national hub for researcher and innovator development | UKRI Digital Research Skills Catalyst Lead |
 | 11:35 | Open forum discussion | What role for northern universities in training and data skills professionalisation? |  |
-| 12:00-12:45 | Lunch break with posters |  |  |
+| 12:00-12:55 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
-| 12:45 | Michal Zulcinski | RNA sequencing of giant cell arteritis lesions uncovers the molecular landscape of early treatment response and reveals predictors of refractory and relapsing disease | Postdoc |
 | 13:00 | Alun Jones | Reduced regulatory complexity associated with the evolutionary transition to sociality from cockroaches to termites despite evolutionary parallels with Hymenoptera | Postdoc |
 | 13:15 | Harry Taylor | Functional Annotation of the Hyalomma anatolicum Cell Line HAE/CTVM9 Through Integrated Transcriptomic and Proteomic Analysis.  | PhD student |
 | 13:25 | Ana Valdes | Learning What to Label: Active Learning for Efficient Biological Text Mining | PhD student |
