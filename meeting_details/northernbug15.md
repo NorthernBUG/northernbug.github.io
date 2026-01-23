@@ -37,6 +37,12 @@ Posters and talks will be judged by all attendees using Google Forms, with prize
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
+We will award Best and Runner Up prizes for talks and posters based on your votes! Please use the Google Form rating systems below.
+
+[Rate the oral presentations here.](https://forms.gle/eTxNoBenF9dyrzve7)
+[Rate the posters here.](https://forms.gle/gS9MLCb9oWhLaJ7w5)
+
+
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
@@ -80,7 +86,7 @@ We continue to be core supported by [The Genetics Society](https://genetics.org.
 
 # Feedback
 
-We will open a feedback form at the close of the meeting which will remain open for 7 days.
+[Please complete this feedback Google Form at the end of the meeting](https://forms.gle/oLbTFDH241bVPUbj8) - this will remain open for 7 days.
 All feedback is incredibly valuable for determining the direction of NorthernBUG, improving and keeping meetings relevant to members, and for sourcing future funding.
 
  
