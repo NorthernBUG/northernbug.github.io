@@ -35,7 +35,7 @@ permalink: /members/
         <a href="{{member.mastodon}}"> | mastodon</a>
       {% endif %}
       {% if member.bluesky %}
-        " | " <a href="{{member.bluesky}}"> | bluesky</a>
+         | <a href="{{member.bluesky}}">bluesky</a>
       {% endif %}     
     </td>
     {% if modulo == '0' or forloop.last %}
