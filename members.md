@@ -28,6 +28,9 @@ permalink: /members/
       {% if member.website %}
         <a href="{{member.website}}">web</a>
       {% endif %}
+      {% if member.linkedin %}
+         | <a href="{{member.linkedin}}">linkedin</a>
+      {% endif %}   
       {% if member.twitter %}
           | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
       {% endif %}
