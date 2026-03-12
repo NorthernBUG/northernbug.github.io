@@ -68,11 +68,10 @@
 
 - name: Matthew Teasdale
   github: teasdalm
-  institute: University of York
-  email: matthew.teasdale@york.ac.uk
-  website: https://www.york.ac.uk/archaeology/staff/research-staff/teasdale/
-  twitter: teasdalm
-  interests: Genomics, ancient DNA
+  institute: Newcastle University
+  email: Matthew.Teasdale@newcastle.ac.uk
+  website: https://www.ncl.ac.uk/bsu/
+  interests: Genomics, scRNA-seq, ancient DNA
 
 - name: Michael Winter
   institute: FERA Science Ltd.
