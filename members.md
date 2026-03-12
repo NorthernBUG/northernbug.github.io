@@ -29,10 +29,10 @@ permalink: /members/
         <a href="{{member.website}}">web</a>
       {% endif %}
       {% if member.twitter %}
-         <a href="https://twitter.com/{{member.twitter}}"> | twitter</a>
+          | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
       {% endif %}
       {% if member.mastodon %}
-        <a href="{{member.mastodon}}"> | mastodon</a>
+         | <a href="{{member.mastodon}}">mastodon</a>
       {% endif %}
       {% if member.bluesky %}
          | <a href="{{member.bluesky}}">bluesky</a>
