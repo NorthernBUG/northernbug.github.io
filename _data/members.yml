@@ -25,9 +25,9 @@
 
 - name: Mark Dunning
   github: markdunning
-  institute: Freelance / seeking work
-  email: mark@mdbioinformatics.com
-  website: http://mdbioinformatics.com
+  institute: Imperial College London
+  email: m.dunning@imperial.ac.uk
+  website: https://profiles.imperial.ac.uk/m.dunning
   twitter: DrMarkDunning
   interests: Bioconductor, R, RNA-seq, Training
 
