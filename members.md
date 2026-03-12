@@ -25,11 +25,18 @@ permalink: /members/
       {% if member.email %}
         {{ member.email }}<br>
       {% endif %}
-      {% if member.twitter %}
-        <a href="{{member.website}}">web</a> | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
-      {% else %}
+      {% if member.website %}
         <a href="{{member.website}}">web</a>
       {% endif %}
+      {% if member.twitter %}
+         <a href="https://twitter.com/{{member.twitter}}">twitter</a>
+      {% endif %}
+      {% if member.mastodon %}
+        <a href="{{member.mastodon}}">mastodon</a>
+      {% endif %}
+      {% if member.bluesky %}
+        <a href="{{member.bluesky}}">bluesky</a>
+      {% endif %}     
     </td>
     {% if modulo == '0' or forloop.last %}
       </tr>
