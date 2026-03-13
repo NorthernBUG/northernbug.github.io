@@ -55,6 +55,14 @@
   github: kpoterlowicz
   interests: bioinformatics, Epigenomics, Galaxy platform, Software development, Machine learning, Data Managment, Training 
 
+- name: Andrew Mason
+  institute: University of York
+  email: andrew.mason@york.ac.uk
+  website: https://asmasonomics.github.io/
+  github: asmasonomics
+  linkedin: https://www.linkedin.com/in/andrew-mason-7a383263
+  interests: Cancer informatics, personalised medicine, endogenous retroviruses, livestock omics, training
+  
 - name: Lewis Quayle
   institute: Sheffield Hallam University & The University of Sheffield
   email: l.quayle@shu.ac.uk and l.quayle@sheffield.ac.uk

@@ -52,7 +52,6 @@ permalink: /members/
 - Helen Hipperson, University of Sheffield
 - Emily Johnson, University of Liverpool
 - Khaled Jumah, University of Bradford
-- Andrew Mason, University of York
 - Freddie Mercer, Univeristy of Leeds
 - Rachel Queen, Univeristy of Newcastle
 - Jamie Soul, University of Liverpool
@@ -70,7 +69,7 @@ in the data directory you need to add yourself to the members.yml file:
 -->
 
 
-## Alumini
+## Alumni
 
 <table>
 {% for member in site.data.alumni %}
