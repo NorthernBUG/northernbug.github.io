@@ -25,11 +25,13 @@
 
 - name: Mark Dunning
   github: markdunning
-  institute: Imperial College London
+  institute: Imperial College London (ex-University of Sheffield)
   email: m.dunning@imperial.ac.uk
   website: https://profiles.imperial.ac.uk/m.dunning
   twitter: DrMarkDunning
-  interests: Bioconductor, R, RNA-seq, Training
+  interests: Bioconductor, RNA-seq, Single-Cell, Data Science, Training
+  bluesky: https://bsky.app/profile/markdunning.bsky.social
+  linkedin: https://www.linkedin.com/in/drmarkdunning/
 
 - name: Matthew Gemmell
   website: https://m-gemmell.github.io/
