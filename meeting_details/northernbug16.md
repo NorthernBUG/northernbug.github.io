@@ -23,13 +23,13 @@ The meeting will take place on 24th of July 2026 in **The University of Bradford
 
 We are excited to bring NorthernBUG 16 to the University of Bradford for a day of community-driven bioinformatics. As always, our meeting is free to attend and open to anyone applying computational tools to the life sciences. Thanks to the generous support of **ELIXIR-UK**, lunch and refreshments will be provided to keep the ideas flowing throughout the day.
 
-This year, we’re zooming out to look at the "bigger picture" of how we learn and teach. Our morning session will focus specifically on the intersection of **training and AI**, exploring how to build structured learning paths and leverage AI agents to create high-quality educational content. We’ll dive into how we can make training more efficient while ensuring the process remains fair, ethical, and accessible to everyone in the field.
+This year’s programme reflects the breadth and rapid evolution of the field. The morning session will highlight emerging trends, with particular attention to artificial intelligence and agentic systems in bioinformatics research – from AI‑augmented analysis pipelines and multi‑agent frameworks for genomic discovery to the practical use of large language models in daily workflows.
 
-True to the NorthernBUG spirit, we prioritize discussion over "perfect" presentations. Whether you are showcasing a finished pipeline or a work-in-progress, the atmosphere is intentionally informal and supportive. Every speaker is encouraged to leave plenty of time for questions, making this the ideal space to troubleshoot technical hurdles, debate new methodologies, or simply connect with your peers across the North.
+A core part of NorthernBUG is the emphasis on open, generous discussion over perfectly polished presentations. Whether you are validating a method for spatial transcriptomics, automating single‑cell RNA‑seq with AI assistance, managing research data in cloud environments, or troubleshooting a genome assembly, you will find an informal and supportive atmosphere. We want you to share insights, get constructive feedback, and connect with peers from across the North.
 
 # Registration
 
-Registration will open soon.
+Please register using the following link: [Register](https://forms.microsoft.com/e/w9yL0SBMW9). Registration will close on July 17th at 5:00 PM.
 
 # Agenda
 
@@ -73,9 +73,9 @@ If you would prefer to take the bus from the university, you can catch any of th
 
 # Our funders
 
-We are core supported by [ELIXIR UK](https://elixiruknode.org/). It will has a talk on the day, so there is an opportunity to hear about ELIXIR UK during the event 
+We are primarily supported by [ELIXIR UK](https://elixiruknode.org/). There will be a talk on that day, providing an opportunity to learn about ELIXIR UK during the event.
 
 # Feedback
 
-[Please complete this feedback Microsoft Form at the end of the meeting](link) - this will remain open for 7 days.
+[Please complete this feedback Microsoft Form at the end of the meeting](https://forms.microsoft.com/e/uT56Jx4exm) - this will remain open for 7 days.
 All feedback is incredibly valuable for determining the direction of NorthernBUG, improving and keeping meetings relevant to members, and for sourcing future funding.
