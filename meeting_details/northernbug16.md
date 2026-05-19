@@ -11,9 +11,9 @@ permalink: northernbug16
 
 # General
 
-The organising committee for NorthernBUG16 is: Khaled Jum'ah, Mingkai Wang, Theo Stolz, and Krzysztof Poterlwicz with the help of the unviercity of bradford bioinformatics MSc srudents. Emails should be directed to Khaled at k.jumah@bradford.ac.uk
+The organising committee for NorthernBUG16 is: Khaled Jum'ah, Mingkai Wang, Theo Stolz, and Krzysztof Poterlwicz, with the help of the University of Bradford bioinformatics MSc students. Emails should be directed to Khaled at k.jumah@bradford.ac.uk
 
-The meeting will take place on 24th of July 2026 in **The University of Bradford Norcroft Centre**. It is a straightforward ~15–20 minute walk uphill from **Bradford Interchange** (or about 25 minutes from **Bradford Forster Square**). If you prefer not to walk, you can catch the 612, 613, or 614 buses from the Interchange or city centre to the Great Horton Road stop, which takes about 10 minutes. There is limited [visitor parking](https://www.bradford.ac.uk/about/visit/car-parking/#:~:text=Visitor%20parking,minutes%20of%20parking) on campus (which usually requires pre-booking), or you can use the nearby public pay-and-display car parks on Shearbridge Road or Longside Lane.
+The meeting will take place on the 24th of July 2026 in **The University of Bradford Norcroft Centre**. It is a straightforward ~15–20 minute walk uphill from **Bradford Interchange** (or about 25 minutes from **Bradford Forster Square**). If you prefer not to walk, you can catch the 612, 613, or 614 buses from the Interchange or city centre to the Great Horton Road stop, which takes about 10 minutes. There is limited [visitor parking](https://www.bradford.ac.uk/about/visit/car-parking/#:~:text=Visitor%20parking,minutes%20of%20parking) on campus (which usually requires pre-booking), or you can use the nearby public pay-and-display car parks on Shearbridge Road or Longside Lane.
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2356.834849377451!2d-1.7670775232409515!3d53.79242687242204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487be6b5040ab98f%3A0x1527cafe37f4a936!2sNorcroft%20Centre!5e0!3m2!1sen!2suk!4v1777997270529!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -39,12 +39,7 @@ TBC
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
-|  | **Training and Professionalisation** |  |  |
-| 10:35 | TBC | ...... | ...... |
-| 10:50 |TBC | ...... | ...... |
-| 11:05 | TBC | ...... | ...... |
-| 11:20 | TBC | ...... | ...... |
-| 11:35 | Open forum discussion | ..... |  |
+| 10:35 | Optional Workshop | TBC | ...... |
 | 12:00-12:55 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
 | 13:00 | TBC | ...... | ...... |
