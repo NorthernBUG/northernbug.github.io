@@ -39,7 +39,8 @@ TBC
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
-| 10:35 | Optional Workshop | TBC | ...... |
+|  | **Morning Workshop** |  |  |
+| 10:35 | TBC | TBC | ...... |
 | 12:00-12:55 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
 | 13:00 | TBC | ...... | ...... |
