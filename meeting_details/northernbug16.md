@@ -31,6 +31,7 @@ A core part of NorthernBUG is the emphasis on open, generous discussion over per
 
 Please register using the following link: [Register](https://forms.microsoft.com/e/w9yL0SBMW9). Registration will close on July 17th at 5:00 PM.
 
+<!---
 # Agenda
 
 TBC
@@ -61,6 +62,7 @@ TBC
 | 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Wallers Brewery, Sunbridgewells BD1 1SX |  |
 
+--->
 After the meeting, we will gather at Wallers Brewery, located inside the historic Sunbridge Wells tunnels. It is a scenic ~12 minute walk from the university campus through the city center. This location is conveniently situated just 5 minutes from both Bradford Interchange and Bradford Forster Square stations, making it an easy final stop before your train home.
 
 If you would prefer to take the bus from the university, you can catch any of the 612, 613, or 614 services from Great Horton Road, which will drop you at City Hall (Stop T1), just a 2-minute walk from the Sunbridge Wells entrance.
