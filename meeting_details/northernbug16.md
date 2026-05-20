@@ -39,25 +39,25 @@ TBC
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
-|  | **Morning Workshop** |  |  |
-| 10:35 | TBC | TBC | ...... |
+|  | **Optional Morning Workshop** |  |  |
+| 10:35 |  |  | ...... |
 | 12:00-12:55 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
-| 13:00 | TBC | ...... | ...... |
-| 13:15 | TBC | ...... | ...... |
-| 13:25 | TBC | ...... | ...... |
-| 13:40 | TBC | ...... | ...... |
-| 13:55 |TBC | ...... | ...... |
-| 14:10 | TBC | ...... | ...... |
+| 13:00 |  | ...... | ...... |
+| 13:15 |  | ...... | ...... |
+| 13:25 |  | ...... | ...... |
+| 13:40 |  | ...... | ...... |
+| 13:55 | | ...... | ...... |
+| 14:10 |  | ...... | ...... |
 | 14:20 | **ELIXIR UK sponsor flash talk** | TBC |  |
 | 14:30-15:20 | **Poster session break** | Coffee, posters, industry, networking | |
 |  | **Session 2 Talks** |  |  |
-| 15:20 | TBC | ...... | ...... |
-| 15:35 | TBC | ...... | ...... |
-| 15:50 | TBC | ...... | ...... |
-| 16:05 | TBC | ...... | ...... |
-| 16:20 | TBC | ...... | ...... |
-| 16:35 | TBC | ...... | ...... |
+| 15:20 |  | ...... | ...... |
+| 15:35 |  | ...... | ...... |
+| 15:50 |  | ...... | ...... |
+| 16:05 |  | ...... | ...... |
+| 16:20 |  | ...... | ...... |
+| 16:35 |  | ...... | ...... |
 | 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Wallers Brewery, Sunbridgewells BD1 1SX |  |
 
