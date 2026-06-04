@@ -73,6 +73,10 @@ If you would prefer to take the bus from the university, you can catch any of th
 
 We are primarily supported by [ELIXIR UK](https://elixiruknode.org/). There will be a talk on that day, providing an opportunity to learn about ELIXIR UK during the event.
 
+# Travel scholarships
+Thank you for the support of the [UKRI Digital Research Skills Catalyst](https://digitalskillscatalyst.ac.uk/) in providing travel scholarships for this meeting. To apply for the travel scholarship please complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSdUfZNT7x3BT2BfLKoZIEs33uTNqTmoVxC54zcm9A5XhyCTBA/viewform) before Wednesday, 15 July. Any questions please contact research-digital-skills@york.ac.uk 
+
+
 # Feedback
 
 [Please complete this feedback Microsoft Form at the end of the meeting](https://forms.microsoft.com/e/uT56Jx4exm) - this will remain open for 7 days.
