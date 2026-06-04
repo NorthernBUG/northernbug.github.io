@@ -1,13 +1,11 @@
 - name: Peter Ashton
-  institute: University of York
-  email: peter.ashton@york.ac.uk
+  institute: UKHSA
   twitter: peteashton1963
-  website: https://www.york.ac.uk/biology/technology-facility/genomics/
 
 - name: Jarek Bryk
   institute: University of Huddersfield
-  email: 	j.bryk@hud.ac.uk
-  website: 	http://bryklab.net
+  email: j.bryk@hud.ac.uk
+  website: http://bryklab.net
   github: jarekbryk
   interests: Genomics, data science, R, teaching and learning
   mastodon: https://scicomm.xyz/@jarek
@@ -19,8 +17,8 @@
 
 - name: Ian Donaldson
   institute: University of Manchester
-  website: 	https://www.research.manchester.ac.uk/portal/en/researchers/ian-donaldson(dec51426-568a-4f48-8986-cbfd0f5fad69).html
-  interests: 	ChIP-seq, RNA-seq, BS-seq, ATAC-seq, variant calling, Galaxy
+  website: https://www.research.manchester.ac.uk/portal/en/researchers/ian-donaldson(dec51426-568a-4f48-8986-cbfd0f5fad69).html
+  interests: ChIP-seq, RNA-seq, BS-seq, ATAC-seq, variant calling, Galaxy
   email: ian.donaldson@manchester.ac.uk
 
 - name: Mark Dunning
@@ -53,7 +51,7 @@
   institute: University of Bradford
   email: k.poterlowicz1@bradford.ac.uk
   github: kpoterlowicz
-  interests: bioinformatics, Epigenomics, Galaxy platform, Software development, Machine learning, Data Managment, Training 
+  interests: bioinformatics, Epigenomics, Galaxy platform, Software development, Machine learning, Data Managment, Training
 
 - name: Andrew Mason
   institute: University of York
@@ -62,18 +60,18 @@
   github: asmasonomics
   linkedin: https://www.linkedin.com/in/andrew-mason-7a383263
   interests: Cancer informatics, personalised medicine, endogenous retroviruses, livestock omics, training
-  
+
 - name: Lewis Quayle
   institute: Sheffield Hallam University & The University of Sheffield
   email: l.quayle@shu.ac.uk and l.quayle@sheffield.ac.uk
   github: lquayle88
   website: www.lewisdoesdata.com
   interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
-  
+
 - name: Lucy Stead
   institute: University of Leeds
   email: l.f.stead@leeds.ac.uk
-  website: 	http://www.braincancer.leeds.ac.uk/glioma-genomics/lucystead/
+  website: http://www.braincancer.leeds.ac.uk/glioma-genomics/lucystead/
   twitter: LucyFStead
   github: medlste
   interests: Glioma genomics and transcriptomics
@@ -95,3 +93,12 @@
   institute: University of Bradford
   email: k.jumah@bradford.ac.uk
   interests: Genomics, Galaxy platform, software development, Machine learning, Special-Cell analysis
+
+- name: Alastair Droop
+  github: alastair-droop
+  institute: University of York
+  email: alastair.droop@york.ac.uk
+  website: https://www.york.ac.uk/biology/technology-facility/data-science/
+  bluesky: https://bsky.app/profile/alastair-droop.bsky.social
+  linkedin: https://linkedin.com/in/alastair-droop/
+  interests: Genomics, Data Science, Machine Learning, Pipelines, Teaching, Software Development, Programming, R, Python, Rust
