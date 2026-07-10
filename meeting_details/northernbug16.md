@@ -40,7 +40,7 @@ Please register using the following link: [Register](https://forms.microsoft.com
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
 |  | **Optional Morning Workshop** |  |  |
-| 10:35-12:00 | LIXIR-UK services and activities |  | ...... |
+| 10:35-12:00 | ELIXIR-UK services and activities |  | ...... |
 | 12:00-12:55 | Lunch break with posters |  |  |
 |  | **Session 1 Talks** |  |  |
 | 13:00 | Andrew Mason | Network-guided multiomic data integration reveals a novel subgroup of bladder cancer patients eligible for repurposed therapy | Group leader / Principal Investigator (PI) / Research Fellow |
