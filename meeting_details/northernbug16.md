@@ -55,7 +55,8 @@ Please register using the following link: [Register](https://forms.microsoft.com
 | 15:50 | William Bowen  | DynaC: A novel centroid-tracking metric to quantify circadian regulatory dominance from dimension reduction of a single-nucleus transcriptomic atlas | Master’s student |
 | 16:05 | Natalia Benova  | Non-coding Variant Mediated Dysregulation of eRNA Post-transcriptional Regulation in Ovarian cancer | PhD student |
 | 16:20 | Arpit Jindal | Unlocking Aspergillus oryzae as a Sustainable Biorefinery: Integrating Bioinformatics and Transcriptomics to Validate Lignocellulose Degradation and Meroterpenoid Co-production | PhD student |
-| 16:35 | TBC | ...... | ...... |
+| 16:35 | Lewis Ward | Pedigree reconstruction and founder contribution analysis in a wild 
+Apodemus flavicollis population | Integrated Master’s Undergraduate student |
 | 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Wallers Brewery, Sunbridgewells BD1 1SX |  |
 
