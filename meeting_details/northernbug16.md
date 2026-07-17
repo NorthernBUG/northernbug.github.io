@@ -44,19 +44,20 @@ Please register using the following link: [Register](https://forms.microsoft.com
 |  | **Session 1 Talks** |  |  |
 | 13:00 | Andrew Mason | Network-guided multiomic data integration reveals a novel subgroup of bladder cancer patients eligible for repurposed therapy | Group leader / Principal Investigator (PI) / Research Fellow |
 | 13:15 | Alexander Marks  | Transcriptomic insights into nickel accumulation in Arabidopsis  | PhD student |
-| 13:30 | Deniz Ece Kaya Akbuga | Survival Omics Factor Analysis for Spatial Data | bioinformatician, data scientist |
+| 13:25 | Deniz Ece Kaya Akbuga | Survival Omics Factor Analysis for Spatial Data | bioinformatician, data scientist |
+| 13:35 | Lewis Ward | Pedigree reconstruction and founder contribution analysis in a wild 
+Apodemus flavicollis population | Integrated Master’s Undergraduate student |
 | 13:45 | Zahra Karimi | Application of Metabarcoding and Shotgun metagenomics in Food Authenticity of processed food samples | PhD student |
 | 14:00 | Tamoghna Das | PanLux: a browser-based platform for interactive downstream interpretation of bacterial pan-genomes | PhD student |
 | 14:15 |  **Poster flash talks** | ...... | ...... |
 | 14:30-15:20 | **Poster session break** | Coffee, posters, industry, networking | |
 |  | **Session 2 Talks** |  |  |
 | 15:20 | Ahmad Farhan | Rotation Operators for Single-Cell Perturbation Response Prediction | PhD student |
-| 15:35 | Alaa Gouda | ...... | ...... |
+| 15:35 | Alaa Gouda | Cortical Proteostasis Signatures Track α-Synuclein Pathology and ATF4-Driven Stress Signalling in Lewy Body Disorders | PhD student |
 | 15:50 | William Bowen  | DynaC: A novel centroid-tracking metric to quantify circadian regulatory dominance from dimension reduction of a single-nucleus transcriptomic atlas | Master’s student |
-| 16:05 | Natalia Benova  | Non-coding Variant Mediated Dysregulation of eRNA Post-transcriptional Regulation in Ovarian cancer | PhD student |
+| 16:05 | Natalia Benova  | Non-coding Variant Mediated Dysregulation of eRNA Post-transcriptional Regulation in Ovarian Cancer | PhD student |
 | 16:20 | Arpit Jindal | Unlocking Aspergillus oryzae as a Sustainable Biorefinery: Integrating Bioinformatics and Transcriptomics to Validate Lignocellulose Degradation and Meroterpenoid Co-production | PhD student |
-| 16:35 | Lewis Ward | Pedigree reconstruction and founder contribution analysis in a wild 
-Apodemus flavicollis population | Integrated Master’s Undergraduate student |
+| 16:35 | Rene Kuklinkova | Resolving Transcriptional Heterogeneity to Define Disease-Relevant Senescence | PhD student |
 | 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Wallers Brewery, Sunbridgewells BD1 1SX |  |
 
