@@ -47,7 +47,7 @@ Please register using the following link: [Register](https://forms.microsoft.com
 | 13:25 | Deniz Ece Kaya Akbuga | Survival Omics Factor Analysis for Spatial Data | bioinformatician, data scientist |
 | 13:35 | Lewis Ward | Pedigree reconstruction and founder contribution analysis in a wild Apodemus flavicollis population | Integrated Master’s Undergraduate student |
 | 13:45 | Zahra Karimi | Application of Metabarcoding and Shotgun metagenomics in Food Authenticity of processed food samples | PhD student |
-| 14:55 | Tamoghna Das | PanLux: a browser-based platform for interactive downstream interpretation of bacterial pan-genomes | PhD student |
+| 13:55 | Tamoghna Das | PanLux: a browser-based platform for interactive downstream interpretation of bacterial pan-genomes | PhD student |
 | 14:10 |  **Poster flash talks** | ...... | ...... |
 | 14:30-15:20 | **Poster session break** | Coffee, posters, industry, networking | |
 |  | **Session 2 Talks** |  |  |
