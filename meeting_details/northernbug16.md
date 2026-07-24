@@ -37,7 +37,7 @@ Please register using the following link: [Register](https://forms.microsoft.com
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
-| 10:30-10:35 | Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
+| 10:30-10:35 | Khaled Jumah, Krzysztof Poterlowicz | Formal welcome to NorthernBUG16! |  |
 |  | **Optional Morning Workshop** |  |  |
 | 10:35-12:00 | Xenia Perez-Sitja | ELIXIR-UK services and activities | ...... |
 | 12:00-12:55 |All | Lunch break with posters  |  |
