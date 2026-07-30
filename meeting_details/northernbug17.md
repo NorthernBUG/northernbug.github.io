@@ -1,11 +1,11 @@
 ---
-title: "NorthernBUG 9"
+title: "NorthernBUG 17"
 author: "Matthew Gemmell"
 date: "18 September 2026"
 layout: meeting
 institute: University of Liverpool
 postcode: TBD
-address: TBD, Liverpool
+address: University of Liverpool
 permalink: northernbug17
 ---
 
@@ -13,7 +13,7 @@ permalink: northernbug17
 
 The organising committee for northernBUG9 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul@liverpool.ac.uk
 
-The meeting will take place on the 18th June 2026 at the UNiversity of Liverpool (Venue to be determined).
+The meeting will take place on the 18th June 2026 at the University of Liverpool (Venue to be determined).
 
 # Agenda
 
