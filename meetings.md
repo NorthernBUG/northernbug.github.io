@@ -4,6 +4,8 @@ title: Meetings
 permalink: /meetings/
 ---
 
+<!-- Add and edit meeting details in /_data/meetings.yml -->
+
 Our meetings are based on the format pioneered by [NextGenBUG](http://nextgenbug.org).
 
 NorthernBUG meetings are open to **anyone** interested in bioinformatics or its application
