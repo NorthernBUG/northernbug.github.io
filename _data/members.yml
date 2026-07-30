@@ -63,10 +63,11 @@
 
 - name: Lewis Quayle
   institute: Sheffield Hallam University & The University of Sheffield
-  email: l.quayle@shu.ac.uk and l.quayle@sheffield.ac.uk
+  email: l.quayle@sheffield.ac.uk
   github: lquayle88
-  website: www.lewisdoesdata.com
-  interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
+  website: https://www.sheffieldcancerbioinformatics.com/
+  linkedin: https://www.linkedin.com/in/lewis-quayle/
+  interests: Cancer dormancy and persistance, multi-omics, machine learning, R programming
 
 - name: Lucy Stead
   institute: University of Leeds
