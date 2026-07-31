@@ -67,7 +67,7 @@
   github: lquayle88
   website: https://www.sheffieldcancerbioinformatics.com/
   linkedin: https://www.linkedin.com/in/lewis-quayle/
-  interests: Cancer dormancy and persistance, multi-omics, machine learning, R programming
+  interests: Cancer dormancy and persistence, multi-omics, machine learning, R programming
 
 - name: Lucy Stead
   institute: University of Leeds
@@ -105,9 +105,9 @@
   interests: Genomics, Data Science, Machine Learning, Pipelines, Teaching, Software Development, Programming, R, Python, Rust
 
 - name: Chinedu Anene
-  institute: LeedS Beckett University
+  institute: Leeds Beckett University
   email: C.A.Anene@leedsbeckett.ac.uk
-  website: 	https://www.leedsbeckett.ac.uk/staff/dr-chinedu-anene/
+  website: https://www.leedsbeckett.ac.uk/staff/dr-chinedu-anene/
   twitter: caanenedr
   github: AneneLab
   interests: Bioinformatics, Digitial pathology, ncRNA, Aging, Oncovirology
