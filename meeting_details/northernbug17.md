@@ -11,9 +11,9 @@ permalink: northernbug17
 
 # General
 
-The organising committee for northernBUG9 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul\@liverpool.ac.uk
+The organising committee for northernBUG17 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul@liverpool.ac.uk
 
-The meeting will take place on the 18th June 2026 at the [Life Sciences Building of The UNiversity of Liverpool](https://www.liverpool.ac.uk/biosciences/contact-us/). The room for the meeting will be Seminar room 2 (LIFS-SR2).
+The meeting will take place on the 18th September 2026 at the [Life Sciences Building of The UNiversity of Liverpool](https://www.liverpool.ac.uk/biosciences/contact-us/). The room for the meeting will be Seminar room 2 (LIFS-SR2).
 
 - [Campus map](https://www.liverpool.ac.uk/media/livacuk/maps/Campus-Map-December-2025.pdf)
   - Life Sciences Building is building 215
