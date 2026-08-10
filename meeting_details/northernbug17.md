@@ -37,7 +37,7 @@ Deadline for registration: midnight (BST) 11th September 2026
 | Time | Speaker | Title | Information |
 |---------|------------|----------------------|------------------------------|
 | 10:00-10:30 |  | Registration opens and Tea/coffee | Registration all day |
-| 10:30-11:30 | Liverpool CBF |  |  |
+| 10:30-11:30 | Liverpool CBF | LLMs in bioinformatics |  |
 | 11:30-12:00 | Panel led discussion |  |  |
 | 12:00-13:00 |  | Lunch break with posters |  |
 | 12:00-14:35 |  | Talks (TBD) |  |
