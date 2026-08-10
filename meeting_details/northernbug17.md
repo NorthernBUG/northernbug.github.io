@@ -1,6 +1,6 @@
 ---
 title: "NorthernBUG 17"
-author: "Matthew Gemmell"
+author: "Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, & Jamie Soul"
 date: "18 September 2026"
 layout: meeting
 institute: University of Liverpool
