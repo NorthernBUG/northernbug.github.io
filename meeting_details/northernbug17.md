@@ -24,7 +24,7 @@ The meeting will take place on the 18th June 2026 at the [Life Sciences Building
 
 NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and the host institution covers costs. Lunch is provided!
 
-# Registeration
+# Registration
 
 Please register to attend and/or present a talk/poster using the following link: [Register](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=MVElUymxEECG4UdL_X6AdusW9T2d2RREo8mqLlOJh2dUQkVWRUZOQ1U4UkZRUEtBOEQ4VFVMM1VLMC4u).
 
@@ -45,4 +45,6 @@ Deadline for registration: midnight (BST) 11th September 2026
 | 14:45-15:30 |  | Coffee + poster session break |  |
 | 15:30-16:30 |  | Talks |  |
 | 16:30-17:00 |  | Prizes, closing discussion + networking |  |
-| 17:00- |  | Pub | TBD |
+| 17:00- |  | Pub | Augustus John |
+
+Social networking after the meeting will take place at [The Augustus John](https://maps.app.goo.gl/mncLndLxK7awWHHX6) conveniently located on the main University of Liverpool campus.
