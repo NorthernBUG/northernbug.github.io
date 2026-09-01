@@ -22,22 +22,6 @@ title: <DISPLAYED_TITLE>
 ---
 ```
 
-### Adding/Editing Training
-In the `_data` directory you will find a `training.yml` file. Simply add a new entry or
-edit an existing entry. Each entry should look like this:
-
-```
-- title: Nanopore Sequencing & Data Analysis
-  subtitle: Learn about nanopore sequecning and data analysis by performing your own 16S sequecning experiement!
-  description: Learn - The science behind nanopore sequencing, How to prepare a 16S amplicon library for sequencing, Loading a library onto a MinION flow cell, Sequencing on the MinION platform, Basics of nanopore data, Analysis of our 16S data using Galaxy
-  date: 19-09-2019
-  duration: 1
-  institute: University of Sheffield
-  city: Sheffield
-  location: E13 Dainton Building
-  link: http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/
-```
-
 ### Adding/Editing Members
 In the `_data` directory you will find a `members.yml` file. Simply add a new entry
 using the existing ones as a template or make edits as required.
@@ -112,3 +96,19 @@ of fields and the action to create our own form. Responses go into a google shee
 
 Once a meeting registration is closed we will create a new tab and preserve the
 sign-up list from previous meetings in their own tabs.
+
+### Adding/Editing Training
+In the `_data` directory you will find a `training.yml` file. Simply add a new entry or
+edit an existing entry. Each entry should look like this:
+
+```
+- title: Nanopore Sequencing & Data Analysis
+  subtitle: Learn about nanopore sequecning and data analysis by performing your own 16S sequecning experiement!
+  description: Learn - The science behind nanopore sequencing, How to prepare a 16S amplicon library for sequencing, Loading a library onto a MinION flow cell, Sequencing on the MinION platform, Basics of nanopore data, Analysis of our 16S data using Galaxy
+  date: 19-09-2019
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: E13 Dainton Building
+  link: http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/
+```

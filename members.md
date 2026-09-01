@@ -4,34 +4,12 @@ title: Members
 permalink: /members/
 ---
 
-Please add yourself to this page! Either [sign up here](../member_registration.html), or fork the repository, edit `_data/members.yml` and submit a pull request.
-
 ## Steering Committee
-
-- Peter Ashton, University of York
-- Jarek Bryk, University of Huddersfield
-- Mark Dunning, 
-- Dave Lunt, University of Hull
-- Andrew Mason, University of York
-- Krzysztof Poterlowicz, University of Bradford
-- Xènia Pérez Sitjà, University of Bradford
-- Lucy Stead, University of Leeds
-- Emily Johnson, University of Liverpool
-- Jamie Soul, University of Liverpool
-- Eva Caamano Gutierrez, University of Liverpool
-- Matthew Gemmell, University of Liverpool/NEOF
-
-### PGR members of the Steering Committee
-
-- Jess Buddle, University of Sheffield
-- Deepthi Paidipati, University of Bradford
-
-## Current Members
 
 <table>
 {% for member in site.data.members %}
 
-    {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
+    {% capture modulo %}{{ forloop.index | modulo: 2 }}{% endcapture %}
     {% if modulo == '1' %}
       <tr>
     {% endif %}
@@ -44,14 +22,39 @@ Please add yourself to this page! Either [sign up here](../member_registration.h
       <strong>{{ member.name }}</strong>
       <p class="post-meta">{{ member.interests }}</p>
       {{ member.institute }}<br>
-      {{ member.email }}<br>
-      <a href="{{member.website}}">web</a> | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
+      {% if member.email %}
+        {{ member.email }}<br>
+      {% endif %}
+      {% if member.website %}
+        <a href="{{member.website}}">web</a>
+      {% endif %}
+      {% if member.linkedin %}
+         | <a href="{{member.linkedin}}">linkedin</a>
+      {% endif %}   
+      {% if member.twitter %}
+          | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
+      {% endif %}
+      {% if member.mastodon %}
+         | <a href="{{member.mastodon}}">mastodon</a>
+      {% endif %}
+      {% if member.bluesky %}
+         | <a href="{{member.bluesky}}">bluesky</a>
+      {% endif %}     
     </td>
     {% if modulo == '0' or forloop.last %}
       </tr>
       {% endif %}
 {% endfor %}
 </table>
+
+- Jess Buddle, University of Sheffield
+- Alastair Droop, University of York
+- Helen Hipperson, University of Sheffield
+- Emily Johnson, University of Liverpool
+- Khaled Jumah, University of Bradford
+- Freddie Mercer, Univeristy of Leeds
+- Rachel Queen, Univeristy of Newcastle
+- Jamie Soul, University of Liverpool
 
 <!---
 To Add yourself to the members table:
@@ -66,7 +69,7 @@ in the data directory you need to add yourself to the members.yml file:
 -->
 
 
-## Alumini
+## Alumni
 
 <table>
 {% for member in site.data.alumni %}

@@ -1,0 +1,342 @@
+- name: John Davey
+  github: johnomics
+  institute: University of York Bioinformatics Core
+  email: john.davey@york.ac.uk
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+  twitter: johnomics
+
+- name: Matthew Parker
+  github: mattdmem
+  institute: Sheffield Bioinformatics Core
+  email: matthew.parker@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter: bioinfomatt
+  interests: Clinical Bioinfromatics, Cancer, Variant Calling, Structural Variants
+
+- name: Dennis Wang
+  github: TransAnalytics
+  institute: Sheffield Bioinformatics Core
+  email: dennis.wang@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter:
+
+- name: Mark Dunning
+  github: markdunning
+  institute: Freelance / seeking work
+  email: mark@mdbioinformatics.com
+  website: http://mdbioinformatics.com
+  twitter: DrMarkDunning
+  interests: Bioconductor, R, RNA-seq, Training
+
+- name: Lizzy Sollars
+  github: lsollars
+  institute: Sheffield Diagnostic Genetics Service
+  email: elizabeth.sollars@sch.nhs.uk
+  website: https://www.sheffieldchildrens.nhs.uk/sdgs/
+  twitter: LizzySollars
+
+- name: Simon Cockell
+  github: sjcockell
+  institute: Newcastle University Bioinformatics Support Unit
+  email: simon.cockell@newcastle.ac.uk
+  website: http://www.ncl.ac.uk/bsu
+  twitter: sjcockell
+
+- name: Bede Constantinides
+  github: bede
+  institute: University of Leeds
+  email: b.constantinides@leeds.ac.uk
+  website: http://mol-evol.org
+  twitter: beconstant
+  interests: Phylogeny, Virome, Literature mining
+
+- name: Katherine Newling
+  institute: University of York
+  email: katherine.newling@york.ac.uk
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+  twitter: katherinenewlin
+
+- name: James Chong
+  institute: University of York
+  email: james.chong@york.ac.uk
+  website: https://sites.google.com/a/york.ac.uk/chonglab/
+  twitter: insanityone
+  interests: Anaerobic microbial meta-omics, nanopore sequencing
+
+- name: Roxana Teodor
+  institute: University of York
+  email: roxana.teodor@york.ac.uk
+  website: https://www.york.ac.uk/biology/itsupport/cfm/post_doc/profile.cfm?ID=475
+  twitter: roxana_teodor
+  interests: Genomics
+
+- name: Helen Griffin
+  institute: Newcastle University
+  email: helen.griffin@ncl.ac.uk
+
+- name: Matthew Teasdale
+  github: teasdalm
+  institute: University of York
+  email: matthew.teasdale@york.ac.uk
+  website: https://www.york.ac.uk/archaeology/staff/research-staff/teasdale/
+  twitter: teasdalm
+  interests: Genomics, ancient DNA
+
+- name: Roy Chaudhuri
+  institute: University of Sheffield
+  email: r.chaudhuri@shef.ac.uk
+  twitter: roychaudhuri
+  interests: Microbial Genomics
+  website: https://www.sheffield.ac.uk/mbb/staff/roychaudhuri
+
+- name: Yura Grabovska
+  github: wudustan
+  institute: Northern Institute for Cancer Research
+  email: yura.grabovska@newcastle.ac.uk
+  interests: Cancer, Microarrays, RNA-Seq, WGS, WES, Machine learning, Unsupervised clustering
+
+- name: Jake Robinson
+  institute: University of Sheffield
+  email: jmrobinson3@sheffield.ac.uk
+  interests: Ecology, microbiome dynamics, genomics, R, 3D modelling
+  twitter: _jake_robinson
+
+- name: Matthew Bashton
+  institute: Northern Institute for Cancer Research
+  email: 	matthew.bashton@gmail.com
+  website: 	https://www.ncl.ac.uk/nicr/staff/profile/matthewbashton.html#publications
+  github: MattBashton
+  interests: Cancer Genomics, Protein Domain Evolution
+  twitter: MattBashton
+
+- name: Masood Zaka
+  institute: Northern Institute for Cancer Research
+  github: masoodzaka
+  email: masood.zaka@newcastle.ac.uk
+  interests: Bioinformatics
+
+- name: Alex Newman
+  institute: Northern Institute for Cancer Research - Newcastle University
+  twitter: AlexeiA7X
+  email: a.newman2@newcastle.ac.uk
+  interests: Cancer, Paediatrics, Lymphoma, Copy Number Analysis, Exome Sequencing, RNA-Seq
+
+- name: Jarek Bryk
+  institute: University of Huddersfield
+  email: 	j.bryk@hud.ac.uk
+  website: 	http://bryklab.net
+  github: jarekbryk
+  interests: Genomics, data science, R, teaching and learning
+  twitter: jarekbryk
+
+- name: Mark Wilkinson
+  institute: University of Sheffield
+  email: 	j.m.wilkinson@sheffield.ac.uk
+  interests: Osteoarthritis genomics
+
+- name: Anna Alessi
+  institute: University of York
+  email: 	anna.szczepanska@york.ac.uk
+  interests: Metagenomics, nanopore seq, amplicon seq
+  twitter: anna_alessi82
+
+- name: Christine Hicks
+  institute: Sheffield Children's Hospital - Sheffield Diagnostic Genetics Service
+  email: 	christine.hicks@sch.nhs.uk
+  github: bioinfochicks
+  interests: Bioinformatics, clinical genetics
+
+- name: Nichola Imeson
+  institute: Sheffield Children's Hospital - Sheffield Diagnostic Genetics Service
+  email: 	nichola.cooper@sch.nhs.uk
+  github: Sheffield Diagnostic Genetics Service
+  interests: Clinical bioinformatics, data sharing
+
+- name: Christopher Yau
+  institute: Center for Computational Biology - University of Birmingham
+  email: 	c.yau@bham.ac.uk
+  github: cwcyau
+  interests: Statistics, Machine Learning, Computational Biology
+
+- name: John Walshaw
+  institute: Fera Science Ltd
+  email: john.walshaw@fera.co.uk
+  website: https://www.fera.co.uk
+  interests: Bioinformatics for microbiology, microbiomes, metagenomics
+
+- name: Helena Spiewak
+  institute: Northern Genetics Service, Newcastle
+  email: helena.spiewak@nuth.nhs.uk
+  github: elly1502
+  interests: Bioinformatics, Clinical Genetics
+
+- name: Emma Rand
+  github: 3mmaRand
+  institute: University of York, Department of Biology
+  email: emma.rand@york.ac.uk
+  website: https://www.york.ac.uk/biology/our-staff/emma-rand/
+  twitter: er13_r
+  interests: biostatistics, data science, reproducibility, training and skills, teaching and learning 
+  
+- name: Lucy Stead
+  institute: University of Leeds
+  email: l.f.stead@leeds.ac.uk
+  website: 	http://www.braincancer.leeds.ac.uk/glioma-genomics/lucystead/
+  twitter: LucyFStead
+  github: medlste
+  interests: Glioma genomics and transcriptomics
+  
+- name: Ian Donaldson
+  institute: University of Manchester
+  website: 	https://www.research.manchester.ac.uk/portal/en/researchers/ian-donaldson(dec51426-568a-4f48-8986-cbfd0f5fad69).html
+  interests: 	ChIP-seq, RNA-seq, BS-seq, ATAC-seq, variant calling, Galaxy
+  email: ian.donaldson@manchester.ac.uk
+ 
+- name: Alice Iliasova
+  institute: 	Newcastle University/Newcastle Centre for Cancer/Mitochondrial Research
+  website: https://www.ncl.ac.uk/medical-sciences/people/profile/aliceiliasova.html
+  interests: computational systems biology, NGS, cancer genomics, epigenomics
+  email: 	alice.iliasova@ncl.ac.uk
+  
+- name: Shaun Nielsen
+  institute: Lancaster Environmental Centre
+  email: s.nielsen@lancaster.ac.uk
+  github: Shaunson26
+  interests: Biostatistics, Data Science, Bioinformatics - Microbial and Plant DNA/RNA
+
+- name: Angela Davies
+  institute: The University of Manchester
+  email: angela.davies@manchester.ac.uk
+  interests: clinical bioinformatics, genomic data sharing
+  twitter: MSCclinbioinf
+ 
+- name: Krzysztof Poterlowicz
+  institute: University of Bradford
+  email: k.poterlowicz1@bradford.ac.uk
+  github: kpoterlowicz
+  interests: bioinformatics, Epigenomics, Galaxy platform, Software development, Machine learning, Data Managment, Training 
+ 
+- name: Manoj Kumar Valluru
+  institute: University of Sheffield
+  interests: Cancer genomics
+  email: m.valluru@sheffield.ac.uk
+  github: vallurumk
+  twitter: mkvalluru
+
+- name: Saba Ferdous
+  github: sabaferdous12
+  institute: CRUK MI
+  email: saba.ferdous@manchester.ac.uk
+
+- name: Dave Lunt
+  institute: University of Hull
+  email: dave.lunt@gmail.com
+  github: davelunt
+  twitter: davelunt
+  website: davelunt.net
+  interests: Comparative genomics, evolution, workflows and pipelines, reproducible bioinformatics
+
+- name: Peter Ashton
+  institute: University of York
+  email: peter.ashton@york.ac.uk
+  twitter: peteashton1963
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+
+- name: Chew Weng Cheng
+  institute: University of Leeds
+  email: c.w.cheng@leeds.ac.uk
+  twitter: chengcweng
+  website: https://medicinehealth.leeds.ac.uk/medicine/staff/1351/dr-chew-weng-cheng
+  interests: RNA-seq, WGS, Peptide-microarrays, Population genetics
+
+- name: Daniel Jeffares
+  institute: University of York
+  email: daniel.jeffares@york.ac.uk
+  twitter: danieljeffares
+  website: https://jeffareslab.org
+  interests: genomics, population genomics, Leishmania, yeast, molecular evolution
+
+- name: Georgette Tanner
+  institute: University of Leeds
+  github: GeorgetteTanner
+  email: dmedgnt@leeds.ac.uk
+  twitter: GeorgetTanner
+  website: https://medicinehealth.leeds.ac.uk/medicine/pgr/4078/georgette-tanner
+
+- name: Alexander Predeus
+  institute: University of Liverpool
+  email: a.predeus@liv.ac.uk
+  github: apredeus
+  twitter: APredeus
+  website: https://scholar.google.com/citations?hl=en&user=aU0elhYAAAAJ
+  interests: RNA-Seq, nanopore, genome assembly, genome annotation, whole-exome sequencing, GWAS
+
+- name: Fern Johnson
+  institute: Manchester Genetics Diagnostics Laboratory
+  email: fern.johnson@mft.nhs.uk
+  interests: Clinical bioinformatics, Clinical genetics
+  
+- name: Emily Chambers
+  github: evchambers
+  institute: University of Sheffield Bioinformatics Core
+  email: e.v.chambers@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk
+  twitter: evc_sheffield
+
+- name: Michael Winter
+  institute: FERA Science Ltd.
+  email: michael.winter@fera.co.uk
+  interests: Comparative genomics and reproducible bioinformatics. *Triops* and *Meloidogyne*.
+
+- name: Heba Shawer
+  institute: University of Leeds
+  twitter: hebashawer
+
+- name: Dapeng Wang
+  institute: University of Leeds
+  email: D.Wang3@leeds.ac.uk
+  twitter: DapengTomWang
+  website: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/417/dr-dapeng-wang
+  interests: Omics
+  
+- name: Sara Morsy
+  github: saramorsy
+  institute: University of Bradford
+  email: skhalil7@bradford.ac.uk
+  twitter: drsaramorsy
+  website: https://www.bradford.ac.uk/staff/skhalil7
+  interests: GWAS, transcriptomics, meta-omics, clinical bioinformatics
+
+- name: Elton Vasconcelos
+  github: eltonjrv
+  institute: University of Leeds
+  email: e.vasconcelos@leeds.ac.uk
+  twitter: EltonVasconcel8
+  website: https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1300/dr-elton-vasconcelos
+  interests: Control of gene expression, Omics and Bioinformatics
+
+- name: Matthew Gemmell
+  website: https://m-gemmell.github.io/
+  github: m-gemmell
+  institute: University of Liverpool, CGR & NEOF
+  interests: Bioinformatics, Training, Environmental, and Microbiology
+
+- name: Eva Caamano Gutierrez
+  institute: Co-Director Computational Biology Facility, University of Liverpool
+  email: Eva.Caamano-Gutierrez@liverpool.ac.uk
+  interests: Data science, omics analyses, machine learning, statistics, R teaching
+
+- name: Lewis Quayle
+  institute: Sheffield Hallam University & The University of Sheffield
+  email: l.quayle@shu.ac.uk and l.quayle@sheffield.ac.uk
+  github: lquayle88
+  website: www.lewisdoesdata.com
+  interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
+  
+- name: Chinedu Anene
+  institute: LeedS Beckett University
+  email: C.A.Anene@leedsbeckett.ac.uk
+  website: 	https://www.leedsbeckett.ac.uk/staff/dr-chinedu-anene/
+  twitter: caanenedr
+  github: AneneLab
+  interests: Bioinformatics, Digitial pathology, ncRNA, Aging, Oncovirology

@@ -6,4 +6,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+favicon: nbug_favicon_2026.png
 ---

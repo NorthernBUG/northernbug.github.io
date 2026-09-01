@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+favicon: /images/favicon.png
 ---
 
 NorthernBUG is a network of broadly defined bioinformaticians and users or bioinformatics services in the north of England. Inspired by Scottish NextGenBUG, we hold meetings three times a year to build a community of researchers and others using big data in biology. We support researchers, educators and others using big data in biology and engage in dissemination and practice of computational biology and promote the foundational skills, best approaches and collaborations across the community. Our meetings are free to attend, single-day, single-track and open to everyone (whether from the North or not), particularly to graduate students and early-career researchers.
