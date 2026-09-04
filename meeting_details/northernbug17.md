@@ -37,14 +37,21 @@ Deadline for registration: midnight (BST) 11th September 2026
 | Time | Speaker | Title | Information |
 |---------|------------|----------------------|------------------------------|
 | 10:00-10:30 |  | Registration opens and Tea/coffee | Registration all day |
-| 10:30-11:30 | Liverpool CBF | LLMs in bioinformatics |  |
-| 11:30-12:00 | Panel led discussion |  |  |
+| 10:30-11:30 | Computational Biology Facility (University of Liverpool) | LLMs in bioinformatics |  |
+| 11:30-12:00 | Panel led discussion | LLMs in bioinformatics  |  |
 | 12:00-13:00 |  | Lunch break with posters |  |
-| 12:00-14:35 |  | Talks (TBD) |  |
-| 14:35-14:45 |  | Poster Teaser Talks (1 min each) |  |
-| 14:45-15:30 |  | Coffee + poster session break |  |
-| 15:30-16:30 |  | Talks |  |
-| 16:30-17:00 |  | Prizes, closing discussion + networking |  |
+| 13:00-13:25 | BioFAIR | Update on BioFAIR |  |
+| 13:25-13:50 | Chinedu Anene (Leeds Beckett University) | Enhancer RNAs beyond transcription: defining their molecular nature and regulatory functions | Senior Lecturer in Bioinformatics |
+| 13:50-14:10 | Vic Aldcroft (University of Liverpool) | Adapting to change: integrating climate projections and genomic tools to future-proof fisheries management | PhD Student |
+| 14:10-14:30 | Rebecca Price (University of Liverpool) | Modelling amyloid fibril polymorphs with AlphaFold3 | Research Fellow |
+| 14:30-14:35 |  | Poster flash talks (1 min each) |  |
+| 14:35-15:00 |  | Coffee + poster session break |  |
+| 15:00-15:25 | Mudassar Iqbal (University of Manchester) | Computational methods for learning tissue biology from spatial transcriptomics and histology | Computational Biologist / Senior Lecturer |
+| 15:25-15:45 | Lucy Barnard (University of Sheffield) | Challenges and lessons learned from developing an epigenetic clock from raw whole genome methylation data | PhD Student |
+| 15:45-16:05 | Ellen Boswell (University of Liverpool) | Exploring a Large Language Model-based pipeline to mine post-translational modification data | PhD Student |
+| 16:05-16:25 | Emily Johnson (University of Liverpool) | Using AlphaFold to uncover vaccine targets against global infectious disease | Data Scientist |
+| 16:25-16:45 | Matthew Gemmell (University of Liverpool) | Community diversity analysis | Bioinformatician |
+| 16:45-17:00 |  | Prizes, closing discussion + networking |  |
 | 17:00- |  | Pub | Augustus John |
 
 Social networking after the meeting will take place at [The Augustus John](https://maps.app.goo.gl/mncLndLxK7awWHHX6) conveniently located on the main University of Liverpool campus.
