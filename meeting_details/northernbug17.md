@@ -50,7 +50,7 @@ Deadline for registration: midnight (BST) 11th September 2026
 | 15:25-15:45 | Lucy Barnard (University of Sheffield) | Challenges and lessons learned from developing an epigenetic clock from raw whole genome methylation data | PhD Student |
 | 15:45-16:05 | Ellen Boswell (University of Liverpool) | Exploring a Large Language Model-based pipeline to mine post-translational modification data | PhD Student |
 | 16:05-16:25 | Emily Johnson (University of Liverpool) | Using AlphaFold to uncover vaccine targets against global infectious disease | Data Scientist |
-| 16:25-16:45 | Matthew Gemmell (University of Liverpool) | Community diversity analysis | Bioinformatician |
+| 16:25-16:45 | Matthew Gemmell (University of Liverpool) | Useful new Community diversity analysis plots | Bioinformatician |
 | 16:45-17:00 |  | Prizes, closing discussion + networking |  |
 | 17:00- |  | Pub | Augustus John |
 
