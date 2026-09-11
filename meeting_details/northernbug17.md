@@ -13,12 +13,20 @@ permalink: northernbug17
 
 The organising committee for northernBUG17 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul@liverpool.ac.uk
 
-The meeting will take place on the 18th September 2026 at the [Life Sciences Building of The University of Liverpool](https://www.liverpool.ac.uk/biosciences/contact-us/). The room for the meeting will be Seminar room 2 (LIFS-SR2).
+The meeting will take place on the 18th September 2026 at the [Life Sciences Building of The University of Liverpool](https://www.liverpool.ac.uk/biosciences/contact-us/). 
 
 - [Campus map](https://www.liverpool.ac.uk/media/livacuk/maps/Campus-Map-December-2025.pdf)
   - Life Sciences Building is building 215
   - Entry signified by the down pointing red arrow in F9
 - [Travel, car parking, and other visiting UoL information](https://www.liverpool.ac.uk/about/visit-us/)
+
+The meeting will use multiple rooms within the Life sciences building:
+
+- Main entrance foyer (lower floor): Registration, and tea & coffee (10:00-10:30)
+- Lecture theatre 2 (ground floor): Talks (10:30-12:00, 13:00-14:35, & 15:00-17:00)
+- Seminar room 2 (2nd floor): Lunch, breaks, and posters (12:00-13:00 & 14:35-15:00)
+
+Plenty of signage will be present in the building to guide meeting attendees.
 
 # What to expect
 
@@ -38,7 +46,8 @@ Deadline for registration: midnight (BST) 11th September 2026
 |---------|------------|----------------------|------------------------------|
 | 10:00-10:30 |  | Registration opens and Tea/coffee | Registration all day |
 | 10:30-11:30 | Computational Biology Facility (University of Liverpool) | LLMs in bioinformatics |  |
-| 11:30-12:00 | Panel led discussion | LLMs in bioinformatics  |  |
+| 11:30-11:55 | Panel led discussion | LLMs in bioinformatics  |  |
+| 11:55-12:00 | BioinfoCoreLeaders-UK |  |
 | 12:00-13:00 |  | Lunch break with posters |  |
 | 13:00-13:25 | BioFAIR | Update on BioFAIR |  |
 | 13:25-13:50 | Chinedu Anene (Leeds Beckett University) | Enhancer RNAs beyond transcription: defining their molecular nature and regulatory functions | Senior Lecturer in Bioinformatics |
