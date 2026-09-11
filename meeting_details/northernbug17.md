@@ -50,7 +50,7 @@ Deadline for registration: midnight (BST) 11th September 2026
 | 10:00-10:30 |  | Registration opens and Tea/coffee | Registration all day |
 | 10:30-11:30 | Computational Biology Facility (University of Liverpool) | LLMs in bioinformatics |  |
 | 11:30-11:55 | Panel led discussion | LLMs in bioinformatics  |  |
-| 11:55-12:00 | BioinfoCoreLeaders-UK |  |
+| 11:55-12:00 |  | BioinfoCoreLeaders-UK |
 | 12:00-13:00 |  | Lunch break with posters |  |
 | 13:00-13:25 | BioFAIR | Update on BioFAIR |  |
 | 13:25-13:50 | Chinedu Anene (Leeds Beckett University) | Enhancer RNAs beyond transcription: defining their molecular nature and regulatory functions | Senior Lecturer in Bioinformatics |
