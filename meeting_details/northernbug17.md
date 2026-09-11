@@ -20,6 +20,9 @@ The meeting will take place on the 18th September 2026 at the [Life Sciences Bui
   - Entry signified by the down pointing red arrow in F9
 - [Travel, car parking, and other visiting UoL information](https://www.liverpool.ac.uk/about/visit-us/)
 
+Entrance door to life sciences building:
+![](/assets/lifesciences_entrance.png){style="width:200px" fig-align="center"}
+
 The meeting will use multiple rooms within the Life sciences building:
 
 - Main entrance foyer (lower floor): Registration, and tea & coffee (10:00-10:30)
