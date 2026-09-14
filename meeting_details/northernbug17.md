@@ -23,6 +23,12 @@ The meeting will take place on the 18th September 2026 at the [Life Sciences Bui
 Entrance door to life sciences building:
 ![](/assets/lifesciences_entrance.png)
 
+Satellite picture with arrow pointing to entrance:
+<img src="/assets/life_sciences_sat_map.png" alt="markdown language" width="600" >
+
+Google maps
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1189.211500888263!2d-2.9637292655675807!3d53.4072607357828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b211a1477678f%3A0x3be9b10340b2af2b!2sLife%20Science%20Building!5e0!3m2!1sen!2suk!4v1789380724626!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 The meeting will use multiple rooms within the Life sciences building:
 
 - Main entrance foyer (lower floor): Registration (10:00-10:30)
