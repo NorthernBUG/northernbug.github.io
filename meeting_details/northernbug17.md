@@ -4,8 +4,8 @@ author: "Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, & Jamie Soul"
 date: "18 September 2026"
 layout: meeting
 institute: University of Liverpool
-postcode: TBD
-address: Life Science Building, Crown St, Liverpool, L69 7ZB
+postcode: L69 7ZB
+address: Life Science Building, Crown St, Liverpool
 permalink: northernbug17
 ---
 
