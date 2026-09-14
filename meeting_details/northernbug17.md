@@ -13,6 +13,8 @@ permalink: northernbug17
 
 The organising committee for northernBUG17 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul@liverpool.ac.uk
 
+## Location
+
 The meeting will take place on the 18th September 2026 at the [Life Sciences Building of The University of Liverpool](https://www.liverpool.ac.uk/biosciences/contact-us/). 
 
 - [Campus map](https://www.liverpool.ac.uk/media/livacuk/maps/Campus-Map-December-2025.pdf)
@@ -29,6 +31,8 @@ Satellite picture with arrow pointing to entrance:
 Google maps
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1189.211500888263!2d-2.9637292655675807!3d53.4072607357828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b211a1477678f%3A0x3be9b10340b2af2b!2sLife%20Science%20Building!5e0!3m2!1sen!2suk!4v1789380724626!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
+## Rooms
+
 The meeting will use multiple rooms within the Life sciences building:
 
 - Main entrance foyer (lower floor): Registration (10:00-10:30)
@@ -44,14 +48,6 @@ This meeting is sponsored by [BioFAIR](https://biofair.uk/)
 # What to expect
 
 NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and the host institution covers costs. Lunch is provided!
-
-# Registration
-
-Please register to attend and/or present a talk/poster using the following link: [Register](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=MVElUymxEECG4UdL_X6AdusW9T2d2RREo8mqLlOJh2dUQkVWRUZOQ1U4UkZRUEtBOEQ4VFVMM1VLMC4u).
-
-Deadline for poster/talk abstract submission midnight (BST) 3rd September 2026
-
-Deadline for registration: midnight (BST) 11th September 2026
 
 # Agenda
 
@@ -77,3 +73,8 @@ Deadline for registration: midnight (BST) 11th September 2026
 | 17:00- |  | Pub | Augustus John |
 
 Social networking after the meeting will take place at [The Augustus John](https://maps.app.goo.gl/mncLndLxK7awWHHX6) conveniently located on the main University of Liverpool campus.
+
+# Registration
+
+Registration is now closed.
+
