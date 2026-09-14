@@ -5,7 +5,7 @@ date: "18 September 2026"
 layout: meeting
 institute: University of Liverpool
 postcode: TBD
-address: Life Science Building, Crown St, Liverpool L69 7ZB
+address: Life Science Building, Crown St, Liverpool, L69 7ZB
 permalink: northernbug17
 ---
 
@@ -33,7 +33,7 @@ Plenty of signage will be present in the building to guide meeting attendees.
 
 This meeting is sponsored by [BioFAIR](https://biofair.uk/)
 
-<img src="https://biofair.uk/wp-content/uploads/2023/04/BioFAIR-logo-2048x950.png" alt="markdown language" width="200" height="200">
+<img src="https://biofair.uk/wp-content/uploads/2023/04/BioFAIR-logo-2048x950.png" alt="markdown language" width="200" >
 
 # What to expect
 
