@@ -41,6 +41,8 @@ The meeting will use multiple rooms within the Life sciences building:
 
 Plenty of signage will be present in the building to guide meeting attendees.
 
+## Sponsor
+
 This meeting is sponsored by [BioFAIR](https://biofair.uk/)
 
 <img src="https://biofair.uk/wp-content/uploads/2023/04/BioFAIR-logo-2048x950.png" alt="markdown language" width="200" >
