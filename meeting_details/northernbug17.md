@@ -60,8 +60,9 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 | 11:30-11:55 | Panel led discussion | LLMs in bioinformatics  |  |
 | 11:55-12:00 |  | BioinfoCoreLeaders-UK |
 | 12:00-13:00 |  | Lunch break with posters |  |
-| 13:00-13:25 | BioFAIR | Update on BioFAIR |  |
-| 13:25-13:50 | Chinedu Anene (Leeds Beckett University) | Enhancer RNAs beyond transcription: defining their molecular nature and regulatory functions | Senior Lecturer in Bioinformatics |
+| 13:00-13:05 | Matthew Gemmell | Welcome and session introduction |  |
+| 13:05-13:30 | BioFAIR | Update on BioFAIR |  |
+| 13:30-13:50 | Chinedu Anene (Leeds Beckett University) | Enhancer RNAs beyond transcription: defining their molecular nature and regulatory functions | Senior Lecturer in Bioinformatics |
 | 13:50-14:10 | Vic Aldcroft (University of Liverpool) | Adapting to change: integrating climate projections and genomic tools to future-proof fisheries management | PhD Student |
 | 14:10-14:30 | Rebecca Price (University of Liverpool) | Modelling amyloid fibril polymorphs with AlphaFold3 | Research Fellow |
 | 14:30-14:35 |  | Poster flash talks (1 min each) |  |
