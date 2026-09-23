@@ -56,7 +56,7 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 | Time | Speaker | Title | Information |
 |---------|------------|----------------------|------------------------------|
 | 10:00-10:30 |  | Registration opens and Tea/coffee | Registration all day |
-| 10:30-11:30 | Computational Biology Facility (University of Liverpool) | LLMs in bioinformatics |  |
+| 10:30-11:30 | Computational Biology Facility (University of Liverpool) | LLMs in bioinformatics | [Slides](https://zenodo.org/records/22893413) |
 | 11:30-11:55 | Panel led discussion | LLMs in bioinformatics  |  |
 | 11:55-12:00 |  | BioinfoCoreLeaders-UK |
 | 12:00-13:00 |  | Lunch break with posters |  |
